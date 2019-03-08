@@ -1,0 +1,5 @@
+export const DOG_GET_DETAILS = 'DOG@GET_DETAILS';
+export const DOG_GET_LIST = 'DOG@GET_LIST';
+export const DOG_SET_DETAILS = 'DOG@SET_DETAILS';
+export const DOG_SET_LIST = 'DOG@SET_LIST';
+export const DOG_UNSET_DETAILS = 'DOG@UNSET_DETAILS';
